@@ -5,6 +5,7 @@ Un repositorio para compartir los experimentos que he realizado en mi aprendizaj
 
 En esta carpeta, se encuentran los proyectos relacionados al COVID19. [Los datos originales pueden encontrarse en este link](https://github.com/CSSEGISandData/COVID-19). 
 * **Uso de una función logística para modelar los casos confirmados del COVID19**
+Es un Jupyter Notebook que se conecta a los CSV del JH para generar curvas logísticas de casos confirmados. Se genera una función que permite ingresar el país para general las curvas.
 
 # Sobre mí y contacto:
 
